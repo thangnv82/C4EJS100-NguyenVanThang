@@ -1,1 +1,1 @@
-alert'xin chào các bạn';
+alert('xin chào các bạn');
